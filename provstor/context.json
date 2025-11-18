@@ -1,0 +1,6 @@
+{
+    "@context": {
+        "CopyTool": "https://w3id.org/ro/terms/provstor#CopyTool",
+        "MoveTool": "https://w3id.org/ro/terms/provstor#MoveTool"
+    }
+}

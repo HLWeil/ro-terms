@@ -1,0 +1,3 @@
+"term","type","label","description","domain","range"
+"CopyTool","Class","CopyTool","https://www.gnu.org/software/coreutils/ cp",,
+"MoveTool","Class","MoveTool","https://www.gnu.org/software/coreutils/ mv",,
